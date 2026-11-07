@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A minimalist, easy-to-read sales website in Russian: the personal page of Артур, a welder in Almaty who specializes mainly in stairs. `README.md` holds the original brief. The site currently shows stairs only; other metalwork is left out until there are photos of it.
 
-- Domain: `lestnicy-metal-almaty.kz` (may still change; it appears only in the `<head>` and JSON-LD of `site/index.html`)
+- Domain: `artur.commit.kz` (may still change; it appears only in the `<head>` and JSON-LD of `site/index.html`, plus the nginx vhost and `.github/workflows/deploy.yml`)
 - **Every call to action must open WhatsApp +7 (708) 373-10-69 with a pre-filled message:** `https://wa.me/77083731069?text=<url-encoded message>`
 
 ## Running
