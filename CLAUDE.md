@@ -32,7 +32,7 @@ The site hasn't been shown to him yet. Only the 5 years of experience, that he g
 - 120+ finished stairs
 - 2–4 weeks from measuring to finished stair; 1–2 days for installation
 - Free measuring within Almaty
-- Works alone, with no middlemen; has his own workshop; photographs customers at handover
+- Works alone, with no middlemen; has his own workshop
 - Installs wooden treads
 - `artur.webp` shows him: the owner thinks so but isn't sure
 
